@@ -79,7 +79,7 @@ As 4 principais visões do negócio foram:
 
 # Estratégia da solução
 A abordagem envolveu a análise de dados em um Jupyter Notebook para responder às questões levantadas pelo CEO.
-Com base nas informações consideradas mais relevantes, desenvolvemos um dashboard interativo usando Streamlit.
+Com base nas informações consideradas mais relevantes, desenvolvi um dashboard interativo usando Streamlit.
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio da empresa:
 1. Mapa com a localização dos restaurantes
 2. Visão dos restaurantes por parís
