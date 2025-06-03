@@ -1,4 +1,4 @@
-# PROJETO FOME ZERO
+# PROJETO: FOME ZERO
 Desenvolvido no curso Analisando Dados com Python da Comunidade DS
 
 # Problema de negócio
@@ -122,7 +122,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 # 5. O produto final do projeto 
 Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: [Projeto Fome Zero](https://ale-cds-ftc-projeto-do-aluno.streamlit.app)
+[Clique aqui para acessar o painel online](https://ale-cds-ftc-projeto-do-aluno.streamlit.app)
 
 # 6. Conclusão
 
